@@ -3,8 +3,8 @@ import java.util.List;
 
 /**
  * @author dhananjay 
- * link  : https://leetcode.com/problems/permutations/
- * level : medium
+ * @link   https://leetcode.com/problems/permutations/
+ * @level  medium
  */
 public class LC46_Permutations {
 
