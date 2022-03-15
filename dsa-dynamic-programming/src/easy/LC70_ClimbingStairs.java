@@ -7,8 +7,8 @@ import java.util.HashMap;
 
 /**
  * @author dhananjay 
- * @link  :
- * @level : 
+ * @link  : https://leetcode.com/problems/climbing-stairs/
+ * @level : easy
  */
 public class LC70_ClimbingStairs {
 
