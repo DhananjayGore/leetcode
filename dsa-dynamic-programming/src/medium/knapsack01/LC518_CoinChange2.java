@@ -10,7 +10,7 @@ import java.util.HashMap;
  * @link  : https://leetcode.com/problems/coin-change-2/
  * @level : medium
  */
-public class LC518CoinChange2 {
+public class LC518_CoinChange2 {
 
 	public int change(int amount, int[] coins) {
         HashMap<String, Integer> dp = new HashMap<>();

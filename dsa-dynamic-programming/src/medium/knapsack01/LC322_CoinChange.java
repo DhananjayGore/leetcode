@@ -11,7 +11,7 @@ import java.util.Map;
  * @link  : https://leetcode.com/problems/coin-change/
  * @level : medium
  */
-public class LC322CoinChange {
+public class LC322_CoinChange {
 
 public int coinChange(int[] coins, int amount) {
         
