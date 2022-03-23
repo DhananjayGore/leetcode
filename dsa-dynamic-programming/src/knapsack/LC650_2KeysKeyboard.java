@@ -1,7 +1,7 @@
 /**
  * 
  */
-package medium.knapsack;
+package knapsack;
 
 /**
  * @author dhananjay
