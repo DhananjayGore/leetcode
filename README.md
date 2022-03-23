@@ -12,6 +12,5 @@ Link for leetcode dynamic programming patterns and set of problems : *[Dynamic P
 *[DP📑 link 2](https://leetcode.com/tag/dynamic-programming/discuss/1050391/Must-do-Dynamic-programming-Problems-Category-wise)*
 
 **_Solutions_**: solution of problems topics wise  
-**knapsack** *[lets go there](https://github.com/DhananjayGore/leetcode/tree/main/dsa-dynamic-programming/src/knapsack)*  
-**unbounded** **knapsack** *[lets go there](https://github.com/DhananjayGore/leetcode/tree/main/dsa-dynamic-programming/src/unbounded/knapsack)*
+**knapsack** *[lets go there](https://github.com/DhananjayGore/leetcode/tree/main/dsa-dynamic-programming/src/knapsack)*  | **unbounded** **knapsack** *[lets go there](https://github.com/DhananjayGore/leetcode/tree/main/dsa-dynamic-programming/src/unbounded/knapsack)*
 
