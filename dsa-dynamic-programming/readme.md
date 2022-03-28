@@ -1,4 +1,5 @@
-## Dynamic Programming :loop: list of standard DP problems which are solved in this repo with explaination
+## Dynamic Programming :loop: 
+list of standard DP problems which are solved in this repo with explaination
 
 **1. Buy and Sell Stocks**
 * *[121.Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)* 
