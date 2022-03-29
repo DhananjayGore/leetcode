@@ -12,3 +12,4 @@ list of standard DP problems which are solved in this repo with explaination
 **2. Multi Dimensions DP**
 * *[931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)* 
 * *[221. Maximal Square](https://leetcode.com/problems/maximal-square/)* 
+* *[1155. Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)* 
