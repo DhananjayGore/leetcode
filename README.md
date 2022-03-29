@@ -11,6 +11,8 @@ Link for leetcode dynamic programming patterns and set of problems : *[Dynamic P
 *[DP📑 link 1](https://leetcode.com/discuss/general-discussion/662866/DP-for-Beginners-Problems-or-Patterns-or-Sample-Solutions)*  
 *[DP📑 link 2](https://leetcode.com/tag/dynamic-programming/discuss/1050391/Must-do-Dynamic-programming-Problems-Category-wise)*
 
+**_List of problems_**: *[click here](https://github.com/DhananjayGore/leetcode/tree/main/dsa-dynamic-programming)*
+
 **_Solutions_**: solution of problems topics wise  
-**Knapsack** *[click here](https://github.com/DhananjayGore/leetcode/tree/main/dsa-dynamic-programming/src/knapsack)*  | **Unbounded** **Knapsack(0-1)** *[click here](https://github.com/DhananjayGore/leetcode/tree/main/dsa-dynamic-programming/src/unbounded/knapsack)* | **Buy and Sell Stocks** *[click here](https://github.com/DhananjayGore/leetcode/tree/main/dsa-dynamic-programming/src/buy/sell/stock)*
+**Knapsack** *[click here](https://github.com/DhananjayGore/leetcode/tree/main/dsa-dynamic-programming/src/knapsack)*  | **Unbounded** **Knapsack(0-1)** *[click here](https://github.com/DhananjayGore/leetcode/tree/main/dsa-dynamic-programming/src/unbounded/knapsack)* | **Buy and Sell Stocks** *[click here](https://github.com/DhananjayGore/leetcode/tree/main/dsa-dynamic-programming/src/buy/sell/stock)* | **Multi Dimensions DP** *[click here](https://github.com/DhananjayGore/leetcode/tree/main/dsa-dynamic-programming/src/multi_dimenstional)*
 
