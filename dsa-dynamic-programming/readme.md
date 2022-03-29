@@ -8,3 +8,6 @@ list of standard DP problems which are solved in this repo with explaination
 * *[188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)* 
 * *[309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)* 
 * *[309. Best Time to Buy and Sell Stock with transaction fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)* 
+
+**2. Buy and Sell Stocks**
+* *[931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)* 
