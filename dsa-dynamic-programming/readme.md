@@ -15,3 +15,6 @@ list of standard DP problems which are solved in this repo with explaination
 * *[1155. Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)* 
 * *[132. Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)* 
 * *[120. Triangle (medium)](https://leetcode.com/problems/triangle/)* 
+
+**3. Longest Common Subsequence**
+* *[1143. Longest Common Subsequence (hard)](https://leetcode.com/problems/longest-common-subsequence/)* 
