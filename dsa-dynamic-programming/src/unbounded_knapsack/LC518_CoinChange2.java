@@ -1,7 +1,7 @@
 /**
  * 
  */
-package unbounded.knapsack;
+package unbounded_knapsack;
 
 import java.util.HashMap;
 

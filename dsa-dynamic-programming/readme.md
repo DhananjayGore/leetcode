@@ -19,4 +19,6 @@ list of standard DP problems which are solved in this repo with explaination
 **3. Longest Common Subsequence**
 * *[1143. Longest Common Subsequence (hard)](https://leetcode.com/problems/longest-common-subsequence/)* 
 * *[516. Longest Palindromic Subsequence (medium)](https://leetcode.com/problems/longest-palindromic-subsequence/)* 
+* *[72. Edit Distance (hard)](https://leetcode.com/problems/edit-distance/)* 
+
 

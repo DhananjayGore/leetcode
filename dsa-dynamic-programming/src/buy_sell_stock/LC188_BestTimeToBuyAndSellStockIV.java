@@ -1,4 +1,4 @@
-package buy.sell.stock;
+package buy_sell_stock;
 
 import java.util.HashMap;
 import java.util.Map;
