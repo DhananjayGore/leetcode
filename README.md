@@ -18,7 +18,9 @@ Link for leetcode dynamic programming patterns and set of problems : *[Dynamic P
 ***
 ## Linked List :arrow_right_hook: :leftwards_arrow_with_hook:
 
-All leetcode *[linkedlist](https://leetcode.com/tag/linked-list)* problems 
+>All leetcode *[linkedlist](https://leetcode.com/tag/linked-list)* problems 
+
+>Linked list notes by *[Karun Karthik](https://www.linkedin.com/in/karun-karthik/)* *[click here](https://github.com/DhananjayGore/leetcode/blob/main/dsa-linked-list/LinkedList%20Notes(Karun%20Karthik).pdf)*
 
 **_Solution_** *[click here!](https://github.com/DhananjayGore/leetcode/tree/linkedlist-dsa-problems/dsa-linked-list)*
 
