@@ -1,7 +1,14 @@
 ## Dynamic Programming :loop: 
 list of standard DP problems which are solved in this repo with explaination
 
-**1. Buy and Sell Stocks**
+**1. Liner DP**
+* *[1137. N-th Tribonacci Number (easy)](https://leetcode.com/problems/n-th-tribonacci-number/)*
+* *[338. Counting Bits (easy)](https://leetcode.com/problems/counting-bits/)*
+* *[509. Fibonacci Number (easy)](https://leetcode.com/problems/fibonacci-number/)*
+* *[70. Climbing Stairs (easy)](https://leetcode.com/problems/climbing-stairs/)*
+* *[746. Min Cost Climbing Stairs (easy)](https://leetcode.com/problems/min-cost-climbing-stairs/)*
+
+**2. Buy and Sell Stocks**
 * *[121.Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)* 
 * *[122.Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)* 
 * *[123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)* 
@@ -9,14 +16,14 @@ list of standard DP problems which are solved in this repo with explaination
 * *[309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)* 
 * *[309. Best Time to Buy and Sell Stock with transaction fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)* 
 
-**2. Multi Dimensions DP**
+**3. Multi Dimensions DP**
 * *[931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)* 
 * *[221. Maximal Square](https://leetcode.com/problems/maximal-square/)* 
 * *[1155. Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)* 
 * *[132. Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)* 
 * *[120. Triangle (medium)](https://leetcode.com/problems/triangle/)* 
 
-**3. Longest Common Subsequence**
+**4. Longest Common Subsequence**
 * *[1143. Longest Common Subsequence (hard)](https://leetcode.com/problems/longest-common-subsequence/)* 
 * *[516. Longest Palindromic Subsequence (medium)](https://leetcode.com/problems/longest-palindromic-subsequence/)* 
 * *[72. Edit Distance (hard)](https://leetcode.com/problems/edit-distance/)* 
