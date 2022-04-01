@@ -8,6 +8,11 @@ list of standard DP problems which are solved in this repo with explaination
 * *[70. Climbing Stairs (easy)](https://leetcode.com/problems/climbing-stairs/)*
 * *[746. Min Cost Climbing Stairs (easy)](https://leetcode.com/problems/min-cost-climbing-stairs/)*
 
+**2. Knapsack**
+* *[416. Partition Equal Subset Sum (mdeium)](https://leetcode.com/problems/partition-equal-subset-sum/)*
+* *[474. Ones and Zeroes (medium)](https://leetcode.com/problems/ones-and-zeroes/)*
+* *[650. 2 Keys Keyboard (medium)](https://leetcode.com/problems/2-keys-keyboard/)*
+
 **2. Buy and Sell Stocks**
 * *[121.Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)* 
 * *[122.Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)* 
