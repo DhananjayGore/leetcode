@@ -1,7 +1,8 @@
+package list;
 /**
  * 
  */
-package linked_list;
+
 
 /**
  * @author dhananjay
