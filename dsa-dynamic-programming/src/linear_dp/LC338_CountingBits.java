@@ -1,7 +1,7 @@
 /**
  * 
  */
-package easy;
+package linear_dp;
 
 /**
  * @author dhananjay
