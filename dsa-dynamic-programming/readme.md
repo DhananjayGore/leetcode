@@ -13,7 +13,12 @@ list of standard DP problems which are solved in this repo with explaination
 * *[474. Ones and Zeroes (medium)](https://leetcode.com/problems/ones-and-zeroes/)*
 * *[650. 2 Keys Keyboard (medium)](https://leetcode.com/problems/2-keys-keyboard/)*
 
-**2. Buy and Sell Stocks**
+**3. Knapsack**
+* *[ *_geeksforgeeks_ -- Cutting a Rod (medium)](https://www.geeksforgeeks.org/cutting-a-rod-dp-13/)*
+* *[322. Coin Change (medium)](https://leetcode.com/problems/coin-change/)*
+* *[518. Coin Change 2 (medium)](https://leetcode.com/problems/coin-change-2/)*
+
+**4. Buy and Sell Stocks**
 * *[121.Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)* 
 * *[122.Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)* 
 * *[123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)* 
@@ -21,14 +26,14 @@ list of standard DP problems which are solved in this repo with explaination
 * *[309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)* 
 * *[309. Best Time to Buy and Sell Stock with transaction fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)* 
 
-**3. Multi Dimensions DP**
+**5. Multi Dimensions DP**
 * *[931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)* 
 * *[221. Maximal Square](https://leetcode.com/problems/maximal-square/)* 
 * *[1155. Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)* 
 * *[132. Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)* 
 * *[120. Triangle (medium)](https://leetcode.com/problems/triangle/)* 
 
-**4. Longest Common Subsequence**
+**6. Longest Common Subsequence**
 * *[1143. Longest Common Subsequence (hard)](https://leetcode.com/problems/longest-common-subsequence/)* 
 * *[516. Longest Palindromic Subsequence (medium)](https://leetcode.com/problems/longest-palindromic-subsequence/)* 
 * *[72. Edit Distance (hard)](https://leetcode.com/problems/edit-distance/)* 
