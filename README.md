@@ -15,11 +15,12 @@ Link for leetcode dynamic programming patterns and set of problems : *[Dynamic P
 
 **_Solution_**: solution of problems topics wise  
 **Liner DP** *[click here](https://github.com/DhananjayGore/leetcode/tree/main/dsa-dynamic-programming/src/linear_dp)* | **Knapsack** *[click here](https://github.com/DhananjayGore/leetcode/tree/main/dsa-dynamic-programming/src/knapsack)*  | **Unbounded** **Knapsack** *[click here](https://github.com/DhananjayGore/leetcode/tree/main/dsa-dynamic-programming/src/unbounded/knapsack)* | **Buy and Sell Stocks** *[click here](https://github.com/DhananjayGore/leetcode/tree/main/dsa-dynamic-programming/src/buy/sell/stock)* | **Multi Dimensions DP** *[click here](https://github.com/DhananjayGore/leetcode/tree/main/dsa-dynamic-programming/src/multi_dimenstional)* | **Longest Common Subsequence (LCS)** *[click here](https://github.com/DhananjayGore/leetcode/tree/main/dsa-dynamic-programming/src/lcs)*
-
+***
 ## Linked List :arrow_right_hook: :leftwards_arrow_with_hook:
 
 All leetcode *[linkedlist](https://leetcode.com/tag/linked-list)* problems 
 
-**_Solution_** *[click here!](https://github.com/DhananjayGore/leetcode/blob/linkedlist-dsa-problems/dsa-linked-list/readme.md)*
+**_Solution_** *[click here!](https://github.com/DhananjayGore/leetcode/tree/linkedlist-dsa-problems/dsa-linked-list)*
 
-## HashMap :loop:
+***
+## HashMap :hash::world_map:
