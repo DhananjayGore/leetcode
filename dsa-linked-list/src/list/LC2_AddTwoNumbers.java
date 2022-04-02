@@ -1,33 +1,20 @@
 package list;
 /**
- * 
- */
-
-
-/**
  * @author dhananjay
  * @link : https://leetcode.com/problems/add-two-numbers/
  * @level : medium
  */
 
-// Definition for singly-linked list.
-//comment class ListNode when you run code in leetcode 
-class ListNode {
-	int val;
-	ListNode next;
-
-	ListNode() {
-	}
-
-	ListNode(int val) {
-		this.val = val;
-	}
-
-	ListNode(int val, ListNode next) {
-		this.val = val;
-		this.next = next;
-	}
-}
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
 
 public class LC2_AddTwoNumbers {
 
