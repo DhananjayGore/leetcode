@@ -2,10 +2,9 @@
 ### Collection of _leetcode_ & _GeeksforGeeks_ problems
 
 ```diff
-+ The repository consist of leetcode and geeksforgeeks topic wise problems which are helpful for coding interview preparation.
-+ Below are the topics and link for the problems
++ The repository consist of leetcode and geeksforgeeks topic wise problems which 
++ are helpful for coding interview preparation.Below are the topics and link for the problems
 ```
-
 ## Dynamic Programming :loop:
 Link for leetcode dynamic programming patterns and set of problems: *[Dynamic Programming patterns:smile:](https://leetcode.com/discuss/general-discussion/458695/Dynamic-Programming-Patterns)*
 
