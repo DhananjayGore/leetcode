@@ -27,4 +27,4 @@ Link for leetcode dynamic programming patterns and set of problems: *[Dynamic Pr
 **_Solution_** *[click here!](https://github.com/DhananjayGore/leetcode/tree/linkedlist-dsa-problems/dsa-linked-list)*
 
 ***
-## HashMap :hash::world_map:
+## HashMap with (Sliding window / Two Pointer approach) :hash::world_map:
