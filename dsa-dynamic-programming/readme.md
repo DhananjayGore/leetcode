@@ -38,4 +38,6 @@ list of standard DP problems which are solved in this repo with explaination
 * *[516. Longest Palindromic Subsequence (medium)](https://leetcode.com/problems/longest-palindromic-subsequence/)* 
 * *[72. Edit Distance (hard)](https://leetcode.com/problems/edit-distance/)* 
 
+**7. Stone Game Variations**
+* *[877. Stone Game (medium)](https://leetcode.com/problems/stone-game/)*
 
