@@ -40,4 +40,5 @@ list of standard DP problems which are solved in this repo with explaination
 
 **7. Stone Game Variations**
 * *[877. Stone Game (medium)](https://leetcode.com/problems/stone-game/)*
+* *[1140. Stone Game II (medium)](https://leetcode.com/problems/stone-game-ii/)*
 
