@@ -28,3 +28,7 @@ Link for leetcode dynamic programming patterns and set of problems: *[Dynamic Pr
 
 ***
 ## HashMap with (Sliding window / Two Pointer approach) :hash::world_map:
+
+>Problems List  *[hashmap-slidingwindow-twopointer](https://github.com/DhananjayGore/leetcode/tree/main/dsa-sliding-window)* problems 
+
+>Solved problems : *[click](https://github.com/DhananjayGore/leetcode/tree/main/dsa-sliding-window/src)*
