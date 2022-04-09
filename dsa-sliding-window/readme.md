@@ -10,3 +10,4 @@ List of problems on hashmap using sliding window and two pointer approach
 * *[633. Sum of Square Numbers (medium)](https://leetcode.com/problems/sum-of-square-numbers/)*
 * *[560. Subarray Sum Equals K (medium)](https://leetcode.com/problems/subarray-sum-equals-k/)*
 * *[_*geeksforgeeks_ -- Longest Sub-Array with Sum K (medium)](https://practice.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1/)*
+* *[974. Subarray Sums Divisible by K (medium)](https://leetcode.com/problems/subarray-sums-divisible-by-k/)*
