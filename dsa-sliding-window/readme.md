@@ -8,3 +8,4 @@ List of problems on hashmap using sliding window and two pointer approach
 * *[3. Longest Substring Without Repeating Characters (medium)](https://leetcode.com/problems/longest-substring-without-repeating-characters/)*
 * *[ _*geeksforgeeks_ --Count distinct elements in every window (easy)](https://practice.geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1#)*
 * *[633. Sum of Square Numbers (medium)](https://leetcode.com/problems/sum-of-square-numbers/)*
+* *[560. Subarray Sum Equals K (medium)](https://leetcode.com/problems/subarray-sum-equals-k/)*
