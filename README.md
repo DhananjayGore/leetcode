@@ -32,3 +32,11 @@ Link for leetcode dynamic programming patterns and set of problems: *[Dynamic Pr
 >Problems List  *[hashmap-slidingwindow-twopointer](https://github.com/DhananjayGore/leetcode/tree/main/dsa-sliding-window)* problems 
 
 >Solved problems : *[click](https://github.com/DhananjayGore/leetcode/tree/main/dsa-sliding-window/src)*
+
+***
+## Trees :evergreen_tree: :deciduous_tree: :palm_tree: 
+
+>Problems List  *[trees](https://github.com/DhananjayGore/leetcode/tree/main/dsa-trees)* problems 
+
+>Solved problems : *[click](https://github.com/DhananjayGore/leetcode/tree/main/dsa-trees/src)*
+
