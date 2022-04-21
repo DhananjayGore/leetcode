@@ -10,3 +10,4 @@ list of standard Tree problems which are solved in this repo with explaination
 * *[1022. Sum of Root To Leaf Binary Numbers (easy)](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)*
 * *[872. Leaf-Similar Trees (easy)](https://leetcode.com/problems/leaf-similar-trees/)*
 * *[257. Binary Tree Paths (easy)](https://leetcode.com/problems/binary-tree-paths/)*
+* *[404. Sum of Left Leaves (easy)](https://leetcode.com/problems/sum-of-left-leaves/)*
