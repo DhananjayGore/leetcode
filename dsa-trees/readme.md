@@ -7,3 +7,4 @@ list of standard Tree problems which are solved in this repo with explaination
 * *[589. N-ary Tree Preorder Traversal (easy)](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)*
 * *[617. Merge Two Binary Trees (easy)](https://leetcode.com/problems/merge-two-binary-trees/)*
 * *[965. Univalued Binary Tree (easy)](https://leetcode.com/problems/univalued-binary-tree/)*
+* *[1022. Sum of Root To Leaf Binary Numbers (easy)](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)*
