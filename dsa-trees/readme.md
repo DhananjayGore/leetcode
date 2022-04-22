@@ -12,3 +12,4 @@ list of standard Tree problems which are solved in this repo with explaination
 * *[257. Binary Tree Paths (easy)](https://leetcode.com/problems/binary-tree-paths/)*
 * *[404. Sum of Left Leaves (easy)](https://leetcode.com/problems/sum-of-left-leaves/)*
 * *[112. Path Sum (easy)](https://leetcode.com/problems/path-sum/)*
+* *[993. Cousins in Binary Tree (easy)](https://leetcode.com/problems/cousins-in-binary-tree/)*
