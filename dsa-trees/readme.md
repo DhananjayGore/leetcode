@@ -14,3 +14,6 @@ list of standard Tree problems which are solved in this repo with explaination
 * *[112. Path Sum (easy)](https://leetcode.com/problems/path-sum/)*
 * *[993. Cousins in Binary Tree (easy)](https://leetcode.com/problems/cousins-in-binary-tree/)*
 * *[100. Same Tree (easy)](https://leetcode.com/problems/same-tree/)*
+* *[116. Populating Next Right Pointers in Each Node (medium)](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)*
+
+
