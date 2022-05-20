@@ -6,10 +6,10 @@ package binary_search_trees;
 /**
  * @author dhananjay
  * @link : https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
- * @level : easy
+ * @level : medium
  */
-public class LC108_ConvertSortedArrayToBinarySearchTree {
-
+public class LC1008_ConstructBinarySearchTreeFromPreorderTraversal {
+	
 	public TreeNode sortedArrayToBST(int[] nums) {
 		return arrayToBST(nums, 0, nums.length - 1);
 	}
@@ -27,4 +27,5 @@ public class LC108_ConvertSortedArrayToBinarySearchTree {
 
 		return newNode;
 	}
+
 }
