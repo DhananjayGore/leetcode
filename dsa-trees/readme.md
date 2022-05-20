@@ -19,5 +19,6 @@ list of standard Tree problems which are solved in this repo with explaination
 ##Binary Search Trees
 
 * *[450. Delete Node in a BST (medium)](https://leetcode.com/problems/delete-node-in-a-bst/)*
+* *[108. Convert Sorted Array to Binary Search Tree (medium)](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)*
 
 
